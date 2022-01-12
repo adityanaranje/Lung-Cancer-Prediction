@@ -1,3 +1,4 @@
 streamlit
 pybase64
 pickle5
+scikit-learn
